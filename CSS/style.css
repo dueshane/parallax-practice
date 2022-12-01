@@ -1,0 +1,51 @@
+.hero-section {
+    background-image: url(../IMG/hero.jpg);
+    height: 100%;
+    width: 100%;
+}
+
+.slide{
+    height: 500px;
+}
+
+.slide-1{
+    background-image: url(../IMG/slide1.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.slide-2{
+    background-image: url(../IMG/slide2.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.slide-3{
+    background-image: url(../IMG/slide3.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.slide-4{
+    background-image: url(../IMG/slide4.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.slide-5{
+    background-image: url(../IMG/slide5.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+/*footer styling with social media icons*/
